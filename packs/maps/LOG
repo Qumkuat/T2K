@@ -1,0 +1,8 @@
+2026/02/15-16:27:48.204 27f8 Recovering log #12
+2026/02/15-16:27:48.209 27f8 Delete type=0 #12
+2026/02/15-16:27:48.209 27f8 Delete type=3 #10
+2026/02/15-16:33:34.130 ac3c Level-0 table #17: started
+2026/02/15-16:33:34.130 ac3c Level-0 table #17: 0 bytes OK
+2026/02/15-16:33:34.132 ac3c Delete type=0 #15
+2026/02/15-16:33:34.133 ac3c Manual compaction at level-0 from '!scenes!UaFgzJAuhbfrpO6T' @ 72057594037927935 : 1 .. '!scenes.walls!UaFgzJAuhbfrpO6T.zU4OdTopgDxRQcQY' @ 0 : 0; will stop at (end)
+2026/02/15-16:33:34.136 ac3c Manual compaction at level-1 from '!scenes!UaFgzJAuhbfrpO6T' @ 72057594037927935 : 1 .. '!scenes.walls!UaFgzJAuhbfrpO6T.zU4OdTopgDxRQcQY' @ 0 : 0; will stop at (end)

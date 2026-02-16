@@ -1,0 +1,8 @@
+2026/02/15-16:27:48.186 bd6c Recovering log #13
+2026/02/15-16:27:48.189 bd6c Delete type=0 #13
+2026/02/15-16:27:48.190 bd6c Delete type=3 #11
+2026/02/15-16:33:34.128 ac3c Level-0 table #18: started
+2026/02/15-16:33:34.128 ac3c Level-0 table #18: 0 bytes OK
+2026/02/15-16:33:34.128 ac3c Delete type=0 #16
+2026/02/15-16:33:34.130 ac3c Manual compaction at level-0 from '!folders!XVxU7qzyeyX1unep' @ 72057594037927935 : 1 .. '!playlists.sounds!pXion4Eb0gOZERZQ.3PUr0k6wuMCzrXZg' @ 0 : 0; will stop at (end)
+2026/02/15-16:33:34.132 ac3c Manual compaction at level-1 from '!folders!XVxU7qzyeyX1unep' @ 72057594037927935 : 1 .. '!playlists.sounds!pXion4Eb0gOZERZQ.3PUr0k6wuMCzrXZg' @ 0 : 0; will stop at (end)
